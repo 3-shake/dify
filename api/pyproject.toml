@@ -102,7 +102,7 @@ exclude = [
 
 [tool.poetry]
 name = "dify-api"
-package-mode = false
+package-mode = true
 
 ############################################################
 # [ Main ] Dependency group
